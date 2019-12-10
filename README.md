@@ -4,7 +4,7 @@
 
 + Dentro do diretório 'html' coloque seu projeto
 
-+ Suba os containeres
++ Suba os containers
 
 ```sh
 docker-compose up
